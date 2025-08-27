@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Orbitron';
+    src: url(Orbitron-Bold.ttf);
+}
+
+h1 {
+    font-family: 'Orbitron';
+    color: #0ccac4;
+}
